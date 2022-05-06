@@ -1,1 +1,0 @@
-Contains files with solutions for the fashion-mnist-dataset
