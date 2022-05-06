@@ -1,0 +1,2 @@
+Solving an exploration problem using the Q learning algorithm with two different policies: e-greedy and Boltzmann policy
+Tuning the Learning Rate and the Batch size of a CNN
