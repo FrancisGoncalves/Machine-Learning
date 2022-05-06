@@ -1,0 +1,2 @@
+Using Naive Bayes algorithm to classify fortune cookies' messages in 2 classes: 1) Predict the future
+                                                                                2) Have a wise saying
