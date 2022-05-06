@@ -1,0 +1,1 @@
+Convolutional Neural Network to detect if an image is either from someone representing WSU or another university
