@@ -1,0 +1,1 @@
+Trained YOLOv4 online available model with cutom boat images and follow it with a camera assembly using two programmed servos.
